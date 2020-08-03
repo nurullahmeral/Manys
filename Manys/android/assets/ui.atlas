@@ -1,0 +1,530 @@
+
+ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bilgibox
+  rotate: false
+  xy: 1, 1160
+  size: 855, 581
+  orig: 855, 581
+  offset: 0, 0
+  index: -1
+victory
+  rotate: false
+  xy: 1, 1050
+  size: 585, 108
+  orig: 585, 108
+  offset: 0, 0
+  index: -1
+clickgider
+  rotate: false
+  xy: 858, 1627
+  size: 528, 114
+  orig: 532, 115
+  offset: 0, 1
+  index: -1
+missionsclick
+  rotate: false
+  xy: 1, 934
+  size: 528, 114
+  orig: 532, 115
+  offset: 0, 1
+  index: -1
+secondsclick
+  rotate: false
+  xy: 858, 1511
+  size: 528, 114
+  orig: 532, 115
+  offset: 0, 1
+  index: -1
+classic
+  rotate: false
+  xy: 1388, 1628
+  size: 527, 113
+  orig: 532, 115
+  offset: 5, 2
+  index: -1
+easy
+  rotate: false
+  xy: 1, 819
+  size: 527, 113
+  orig: 532, 115
+  offset: 5, 2
+  index: -1
+missions
+  rotate: false
+  xy: 858, 1396
+  size: 527, 113
+  orig: 532, 115
+  offset: 5, 2
+  index: -1
+twentyseconds
+  rotate: false
+  xy: 1388, 1513
+  size: 527, 113
+  orig: 532, 115
+  offset: 5, 2
+  index: -1
+shopone
+  rotate: false
+  xy: 1, 438
+  size: 204, 379
+  orig: 204, 385
+  offset: 0, 6
+  index: -1
+shopeigth
+  rotate: false
+  xy: 1, 57
+  size: 203, 379
+  orig: 204, 385
+  offset: 1, 6
+  index: -1
+shopfive
+  rotate: false
+  xy: 207, 438
+  size: 203, 379
+  orig: 204, 385
+  offset: 1, 6
+  index: -1
+shopfour
+  rotate: false
+  xy: 206, 57
+  size: 203, 379
+  orig: 204, 385
+  offset: 1, 6
+  index: -1
+shopseven
+  rotate: false
+  xy: 412, 438
+  size: 203, 379
+  orig: 204, 385
+  offset: 1, 6
+  index: -1
+shopsix
+  rotate: false
+  xy: 411, 57
+  size: 203, 379
+  orig: 204, 385
+  offset: 1, 6
+  index: -1
+levelbartree
+  rotate: false
+  xy: 858, 1288
+  size: 364, 106
+  orig: 369, 106
+  offset: 0, 0
+  index: -1
+levelbar
+  rotate: false
+  xy: 858, 1182
+  size: 362, 104
+  orig: 369, 106
+  offset: 2, 0
+  index: -1
+levelbarone
+  rotate: false
+  xy: 858, 1076
+  size: 362, 104
+  orig: 369, 106
+  offset: 2, 0
+  index: -1
+shoptree
+  rotate: false
+  xy: 616, 57
+  size: 203, 379
+  orig: 204, 385
+  offset: 1, 6
+  index: -1
+levelbartwo
+  rotate: false
+  xy: 1388, 1407
+  size: 362, 104
+  orig: 369, 106
+  offset: 2, 0
+  index: -1
+yesnono
+  rotate: false
+  xy: 588, 946
+  size: 214, 212
+  orig: 214, 212
+  offset: 0, 0
+  index: -1
+shoptwo
+  rotate: false
+  xy: 617, 565
+  size: 203, 379
+  orig: 204, 385
+  offset: 1, 6
+  index: -1
+manybar
+  rotate: false
+  xy: 1387, 1347
+  size: 293, 58
+  orig: 293, 58
+  offset: 0, 0
+  index: -1
+settingsof
+  rotate: false
+  xy: 617, 483
+  size: 220, 80
+  orig: 230, 80
+  offset: 5, 0
+  index: -1
+closescore
+  rotate: false
+  xy: 1752, 1344
+  size: 166, 167
+  orig: 168, 168
+  offset: 0, 1
+  index: -1
+yesnoyes
+  rotate: false
+  xy: 822, 862
+  size: 214, 212
+  orig: 214, 212
+  offset: 0, 0
+  index: -1
+leveleigth
+  rotate: false
+  xy: 822, 680
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+leveleleven
+  rotate: false
+  xy: 1038, 894
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+settingson
+  rotate: false
+  xy: 822, 598
+  size: 220, 80
+  orig: 230, 80
+  offset: 4, 0
+  index: -1
+levelfive
+  rotate: false
+  xy: 839, 416
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+levelfour
+  rotate: false
+  xy: 821, 234
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+levelkilit
+  rotate: false
+  xy: 821, 52
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+levelnine
+  rotate: false
+  xy: 1004, 680
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+buttonone
+  rotate: false
+  xy: 1224, 1250
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+howdel
+  rotate: false
+  xy: 1222, 1076
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+levelone
+  rotate: false
+  xy: 1220, 894
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+levelseven
+  rotate: false
+  xy: 1186, 712
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+levelsix
+  rotate: false
+  xy: 1394, 1165
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+howeigth
+  rotate: false
+  xy: 1576, 1173
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+howfive
+  rotate: false
+  xy: 1748, 1170
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+levelten
+  rotate: false
+  xy: 1402, 983
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+buttononeclick
+  rotate: false
+  xy: 1584, 1027
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+leveltree
+  rotate: false
+  xy: 1730, 988
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+leveltwelve
+  rotate: false
+  xy: 1402, 801
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+buttontwo
+  rotate: false
+  xy: 1584, 881
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+leveltwo
+  rotate: false
+  xy: 1730, 806
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+buttontwoclick
+  rotate: false
+  xy: 1584, 735
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+howfour
+  rotate: false
+  xy: 1730, 632
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+hownine
+  rotate: false
+  xy: 1368, 627
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+howok
+  rotate: false
+  xy: 1540, 561
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+howone
+  rotate: false
+  xy: 1712, 458
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+buttonfive
+  rotate: false
+  xy: 1044, 535
+  size: 143, 143
+  orig: 144, 144
+  offset: 0, 1
+  index: -1
+howseven
+  rotate: false
+  xy: 1189, 538
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+howsix
+  rotate: false
+  xy: 1021, 361
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+howtree
+  rotate: false
+  xy: 1193, 364
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+howtwo
+  rotate: false
+  xy: 1003, 187
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+howzero
+  rotate: false
+  xy: 1003, 13
+  size: 170, 172
+  orig: 170, 172
+  offset: 0, 0
+  index: -1
+retryscore
+  rotate: false
+  xy: 1365, 458
+  size: 168, 167
+  orig: 168, 168
+  offset: 0, 1
+  index: -1
+slowly
+  rotate: false
+  xy: 1535, 395
+  size: 164, 164
+  orig: 173, 172
+  offset: 5, 4
+  index: -1
+stop
+  rotate: false
+  xy: 1365, 292
+  size: 164, 164
+  orig: 173, 172
+  offset: 5, 4
+  index: -1
+levelnextleft
+  rotate: false
+  xy: 1531, 231
+  size: 163, 162
+  orig: 163, 162
+  offset: 0, 0
+  index: -1
+levelnextright
+  rotate: false
+  xy: 1701, 294
+  size: 163, 162
+  orig: 163, 162
+  offset: 0, 0
+  index: -1
+buttonfiveclick
+  rotate: false
+  xy: 1696, 149
+  size: 143, 143
+  orig: 144, 144
+  offset: 0, 1
+  index: -1
+buttonfour
+  rotate: false
+  xy: 1175, 216
+  size: 143, 143
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+buttonfourclick
+  rotate: false
+  xy: 1175, 71
+  size: 143, 143
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+buttontree
+  rotate: false
+  xy: 1320, 147
+  size: 143, 143
+  orig: 144, 144
+  offset: 0, 1
+  index: -1
+buttontreeclick
+  rotate: false
+  xy: 1320, 2
+  size: 143, 143
+  orig: 144, 144
+  offset: 0, 1
+  index: -1
+rone
+  rotate: false
+  xy: 1465, 86
+  size: 143, 143
+  orig: 1037, 212
+  offset: 854, 33
+  index: -1
+kalp
+  rotate: false
+  xy: 1175, 1
+  size: 74, 68
+  orig: 83, 79
+  offset: 5, 4
+  index: -1
+slowbar
+  rotate: false
+  xy: 1465, 24
+  size: 120, 60
+  orig: 121, 62
+  offset: 1, 0
+  index: -1
+kalpone
+  rotate: false
+  xy: 1610, 154
+  size: 82, 75
+  orig: 83, 79
+  offset: 1, 0
+  index: -1
+rtwo
+  rotate: false
+  xy: 1610, 4
+  size: 143, 143
+  orig: 1037, 212
+  offset: 854, 33
+  index: -1
+bin
+  rotate: false
+  xy: 1755, 62
+  size: 93, 85
+  orig: 128, 85
+  offset: 18, 0
+  index: -1
+ikibin
+  rotate: false
+  xy: 1841, 207
+  size: 104, 85
+  orig: 128, 85
+  offset: 12, 0
+  index: -1
+stopbar
+  rotate: false
+  xy: 1850, 145
+  size: 110, 60
+  orig: 121, 62
+  offset: 0, 2
+  index: -1

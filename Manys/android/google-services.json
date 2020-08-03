@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79066345459",
+    "firebase_url": "https://manys-3088788.firebaseio.com",
+    "project_id": "manys-3088788",
+    "storage_bucket": "manys-3088788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79066345459:android:926a4942e4373525b96c86",
+        "android_client_info": {
+          "package_name": "com.nurullahmeral.manys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79066345459-4q689qccs79sk30rvlmpovgle6053ajb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nurullahmeral.manys",
+            "certificate_hash": "7bf3d0cc357f87603a6982c26ace6d84b164f45c"
+          }
+        },
+        {
+          "client_id": "79066345459-t961og4imnvrkl77p4hjjn3cdfjj7hva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nurullahmeral.manys",
+            "certificate_hash": "c5bc38e3a47394656a856871264471b859e82056"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDINqfPH-ZGTxLR4GyGjOJDrVUb-yRbk8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
